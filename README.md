@@ -1,5 +1,6 @@
 
 ![github-header-image](https://github.com/LittleMari/LittleMari/assets/134427300/af13c1b7-2ff9-4da7-abd3-25489e755ae1)
+![269691871-af13c1b7-2ff9-4da7-abd3-25489e755ae1](https://github.com/LittleMari/LittleMari/assets/134427300/74d431a1-6590-465c-93d0-638ef5418b76)
 
 <!--
 **LittleMari/LittleMari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
