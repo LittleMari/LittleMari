@@ -1,6 +1,8 @@
 
 ![github-header-image](https://github.com/LittleMari/LittleMari/assets/134427300/af13c1b7-2ff9-4da7-abd3-25489e755ae1)
-![269691871-af13c1b7-2ff9-4da7-abd3-25489e755ae1](https://github.com/LittleMari/LittleMari/assets/134427300/a4906f33-fb8a-4388-8082-b5d34b855d1f)
+![ABOUT ME](https://github.com/LittleMari/LittleMari/assets/134427300/be237961-c12d-4b4f-aef6-2bcba5ce83c7)
+
+![OBJETIVES](https://github.com/LittleMari/LittleMari/assets/134427300/3801def7-9e8a-4484-897e-9447d80fb285)
 
 
 <!--
