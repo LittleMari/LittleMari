@@ -3,7 +3,7 @@
 ![ABOUT ME](https://github.com/LittleMari/LittleMari/assets/134427300/be237961-c12d-4b4f-aef6-2bcba5ce83c7)
 ㅤㅤHi! 🎀 My name is Maria. I have 23 years old and there are some things about me. 🌸
        
-        - 💗 I love build software.
+        - 💗 I love to build software.
     ㅤㅤ- 🔨 I'm currently learning python.
         - ⚡ I'm looking for a opportunity to learn and get experience.
        
