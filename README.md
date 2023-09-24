@@ -9,8 +9,8 @@
 
 ![OBJETIVES](https://github.com/LittleMari/LittleMari/assets/134427300/3801def7-9e8a-4484-897e-9447d80fb285)
 
-       - 💟 Do my backend first app    ☑️
-       - 💟 Do my frontend first app
+       - 💟 Do my first back-end app    ☑️
+       - 💟 Do my first front-end app
        - 💟 Do a minigame 
        - 💟 Do a data science project
 
