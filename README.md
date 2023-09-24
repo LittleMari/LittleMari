@@ -3,10 +3,9 @@
 ![ABOUT ME](https://github.com/LittleMari/LittleMari/assets/134427300/be237961-c12d-4b4f-aef6-2bcba5ce83c7)
 ㅤㅤHi! 🎀 My name is Maria Salar, I'm a software developer student. Check out more about me!. 🌸
        
-        - 💗 I love to build software.
-    ㅤㅤ- 🔨 I'm currently learning python.
-        - ⚡ I'm looking for a opportunity to learn and get experience.
-       
+        - 💗 Passionate about software development.
+    ㅤㅤ- 🔨 Currently learning Python.
+        - ⚡ Looking for an opportunity to get unique hands-on experience
 
 ![OBJETIVES](https://github.com/LittleMari/LittleMari/assets/134427300/3801def7-9e8a-4484-897e-9447d80fb285)
 
