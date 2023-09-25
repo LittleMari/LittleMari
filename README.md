@@ -1,5 +1,4 @@
-
-![github-header-image](https://github.com/LittleMari/LittleMari/assets/134427300/af13c1b7-2ff9-4da7-abd3-25489e755ae1)
+![github-header-image](https://github.com/LittleMari/LittleMari/assets/134427300/e1ce860c-ef0b-47a9-8ce3-7f346ba7b95a)
 ![ABOUT ME](https://github.com/LittleMari/LittleMari/assets/134427300/be237961-c12d-4b4f-aef6-2bcba5ce83c7)
 ㅤㅤHi! 🎀 My name is Maria Salar, I'm a software developer student. Check out more about me!. 🌸
        
