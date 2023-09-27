@@ -6,15 +6,13 @@
     ㅤㅤ- 🔨 Currently learning Python.
         - ⚡ Looking for an opportunity to get unique hands-on experience
 
+<!--
 ![OBJETIVES](https://github.com/LittleMari/LittleMari/assets/134427300/3801def7-9e8a-4484-897e-9447d80fb285)
 
        - 💟 Do my first back-end app    ☑️
        - 💟 Do my first front-end app
        - 💟 Do a minigame 
        - 💟 Do a data science project
-
-
-<!--
 **LittleMari/LittleMari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
