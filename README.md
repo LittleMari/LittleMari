@@ -3,7 +3,8 @@
 ㅤㅤHi! 🎀 My name is Maria Salar, I'm a software developer student. Check out more about me!. 🌸
        
         - 💗 Passionate about software development.
-    ㅤㅤ- 🔨 Currently learning Java & Python.
+    ㅤㅤ- 🔨 Tools: Java | SQL
+    ㅤㅤ- 📫 Currently learning: JavaScript + REACT | Python.
         - ⚡ Looking for an opportunity to get unique hands-on experience
 
 <!--
