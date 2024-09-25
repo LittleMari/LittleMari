@@ -4,7 +4,7 @@
        
         - 💗 Passionate about software development.
     ㅤㅤ- 🔨 Tools: Java | SQL
-    ㅤㅤ- 📫 Currently learning: JavaScript + REACT | Python.
+    ㅤㅤ- 📫 Currently learning: JavaScript | Python | PHP 
         - ⚡ Looking for an opportunity to get unique hands-on experience
 
 <!--
